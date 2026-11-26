@@ -1,0 +1,9 @@
+# 動かしたときに読む・作るデータ。決してコミットしない
+data/
+*.sqlite
+.env
+# 依存と生成物
+node_modules/
+__pycache__/
+*.pyc
+.venv/
